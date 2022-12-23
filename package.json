@@ -41,6 +41,7 @@
     "@types/node": "18.11.17",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
+    "autoprefixer": "^10.4.0",
     "eslint": "~8.30.0",
     "eslint-config-prettier": "8.5.0",
     "jasmine-core": "~4.5.0",
@@ -52,9 +53,11 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.2",
+    "ts-jest": "28.0.5",
     "nx": "15.4.0",
     "prettier": "^2.6.2",
-    "ts-jest": "29.0.3",
     "ts-node": "10.9.1",
     "typescript": "~4.9.0"
   }

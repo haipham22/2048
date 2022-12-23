@@ -2,7 +2,11 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
+  template: `
+    <app-layouts>
+      <router-outlet></router-outlet>
+    </app-layouts>
+  `,
 })
 export class AppComponent {
   title = 'angular-twenty-forty-eight';
