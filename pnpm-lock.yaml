@@ -22,7 +22,7 @@ specifiers:
   '@nrwl/linter': 15.4.0
   '@nrwl/workspace': 15.4.0
   '@types/jasmine': ~4.3.0
-  '@types/jest': 29.2.4
+  '@types/jest': 29.2.5
   '@types/node': 18.11.17
   '@typescript-eslint/eslint-plugin': ^5.36.1
   '@typescript-eslint/parser': ^5.36.1
@@ -73,7 +73,7 @@ devDependencies:
   '@nrwl/linter': 15.4.0_yyndweurlebyorobfqwsvtbx5a
   '@nrwl/workspace': 15.4.0_plk7eujlz3rba7vbmuxbl2cnwm
   '@types/jasmine': 4.3.0
-  '@types/jest': 29.2.4
+  '@types/jest': 29.2.5
   '@types/node': 18.11.17
   '@typescript-eslint/eslint-plugin': 5.45.0_34i4e4inywexx5djs3pxjh2k4a
   '@typescript-eslint/parser': 5.45.0_lzzuuodtsqwxnvqeq4g4likcqa
@@ -2813,8 +2813,8 @@ packages:
     resolution: {integrity: sha512-u1jWakf8CWvLfSEZyxmzkgBzOEvXH/szpT0e6G8BTkx5Eu0BhDn7sbc5dz0JBN/6Wwm9rBe+JAsk9tJRyH9ZkA==}
     dev: true
 
-  /@types/jest/29.2.4:
-    resolution: {integrity: sha512-PipFB04k2qTRPePduVLTRiPzQfvMeLwUN3Z21hsAKaB/W9IIzgB2pizCL466ftJlcyZqnHoC9ZHpxLGl3fS86A==}
+  /@types/jest/29.2.5:
+    resolution: {integrity: sha512-H2cSxkKgVmqNHXP7TC2L/WUorrZu8ZigyRywfVzv6EyBlxj39n4C00hjXYQWsbwqgElaj/CiAeSRmk5GoaKTgw==}
     dependencies:
       expect: 29.3.1
       pretty-format: 29.3.1
